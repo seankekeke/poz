@@ -1,16 +1,24 @@
 ###
 
-python 3.9
+1. 구조
+- dist
+- source
+- tool
 
-installed package list
-- pyqt5
-- pyautogui
-- pywin32
-- opencv-python,,, 
-- opencv-contrib-python
-- pillow
-- easyocr
+2. 환경
+- python 3.9
+- installed package list
+  - PyQt5
+  - PyQt5Designer
+  - pyautogui
+  - pywin32
+  - opencv-python
+  - opencv-contrib-python
+  - pillow
+  - yolov5 requirements
 
 
-- teachable-machine
-- pytesseract
+
+  - easyocr : 느림 제거예정
+  - teachable-machine
+  - pytesseract
