@@ -1,0 +1,31 @@
+train: D:\workspace\python_projects\yolov5\dataset\train\images
+val: D:\workspace\python_projects\yolov5\dataset\valid\images
+test: 
+
+nc: 24
+names: [
+    'troops_cnt_1',
+    'troops_cnt_2',
+    'troops_cnt_3',
+    'troops_cnt_4',
+    'troops_cnt_5',
+    'city',
+    'open_panel',
+    'not_found_rss',
+    'empty_steel',
+    'occupied_steel',
+    'rss_food_in_panel',
+    'rss_wood_in_panel',
+    'rss_steel_in_panel',
+    'rss_gas_in_panel',
+    'rss_search_in_panel',
+    'rss_lv1',
+    'rss_lv2',
+    'rss_lv3',
+    'rss_lv4',
+    'rss_lv5',
+    'rss_lv6',
+    'rss_lv7',
+    'rss_minus_in_panel',
+    'rss_plus_in_panel'
+]
