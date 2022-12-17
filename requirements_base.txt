@@ -1,0 +1,10 @@
+gitpython
+ipython
+
+# GUI
+PyQt5>=5.15.7
+PyQt5Designer>=5.14.1
+
+# window control
+pyautogui>=0.9.53
+pywin32>=305
